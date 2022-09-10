@@ -2,7 +2,7 @@ streamlit
 pandas 
 numpy
 xgboost
-pickle
+# pickle
 streamlit
-warnings
+# warnings
 gunicorn
