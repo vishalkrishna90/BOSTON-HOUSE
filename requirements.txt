@@ -1,6 +1,6 @@
 streamlit
 pandas 
 numpy
+sklearn
 xgboost
-streamlit
 gunicorn
