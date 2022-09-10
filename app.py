@@ -24,4 +24,4 @@ if st.button('Submit'):
     data = np.array([[LSTAT,RM,DIS,NOX,PTRATIO,CRIM]])
     scale_data = scaler.transform(data)
     res = model.predict(scale_data)
-    st.write('Vishal Kumar Mridha', res[0])
+    st.subheader(f'Predicted House Price Is : {(res[0])}')
