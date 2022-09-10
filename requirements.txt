@@ -1,7 +1,8 @@
 streamlit
 pandas 
 numpy
-sklearn
+xgboost
 pickle
 streamlit
 warnings
+gunicorn
