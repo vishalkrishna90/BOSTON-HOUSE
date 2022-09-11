@@ -1,4 +1,6 @@
 from re import S
+import io
+import requests
 import pandas as pd
 import numpy as np
 import streamlit as st
@@ -9,7 +11,11 @@ warning.filterwarnings('ignore')
 model = pkl.load(open('xgb_model.pkl','rb'))
 scaler = pkl.load(open('scaler.pkl','rb'))
 
-df = pd.read_csv('D:\END_TO_END_PROJECT\BOSTON-HOUSE\\boston.csv')
+
+url = "https://github.com/vishalkrishna90/BOSTON-HOUSE/blob/main/boston.csv" 
+download = requests.get(url).content
+
+df = pd.read_csv(io.StringIO(download.decode('utf-8')),sep='\t')
 
 st.title('Boston House Price Prediction')
 
