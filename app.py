@@ -1,4 +1,5 @@
 from re import S
+import io
 import requests
 import pandas as pd
 import numpy as np
