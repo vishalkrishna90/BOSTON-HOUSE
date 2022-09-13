@@ -90,7 +90,7 @@ median value of owner-occupied homes in \$1000s.
 In this step we first check there are any null and duplicate values are present or not, If present we have to handel them, after that we check there are any incorrect data present or not, If present then we have to handel them
 after that we check outliers and If present handel them
 
-![Data Preprocessing](https://github.com/vishalkrishna90/BOSTON-HOUSE/blob/babf095a4d682498aeac34bbbbb5467)
+![Data Preprocessing](https://github.com/vishalkrishna90/BOSTON-HOUSE/blob/623b5600cd3e2ac471ce64114e9b6b9d51907dd8/Images/Data_preprocessing.png)
 
 ## Exploratory Data Analysis (EDA)
 In this step we try to Analyze our data very efficiently and deeply, first we check correlation between features
