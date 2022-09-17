@@ -3,7 +3,21 @@
 
 This is a Boston House Price Prediction project in which I tried to train ML Model Very well by that anybody can predict house prices in Boston, I also created a web app for predict house price in boston. You can check my web app, Thank You :)
 
-![Boston House](https://github.com/vishalkrishna90/BOSTON-HOUSE/blob/298f3c53923ed06fa24f00608b409a0b4c7ff913/Images/boston_img_1.jpg)
+![Boston House](https://github.com/vishalkrishna90/BOSTON-HOUSE/blob/298f3c53923ed06fa24f00608b409a0b4c7ff913/Images/BOSTON_2.jpg)
+
+
+**Author = Vishal Kumar Mridha**
+
+**Domain = Real Estate**
+
+**Level = Beginner**
+
+**Accuracy Score = 88%>**
+
+**Project Type = End To End Project**
+
+![User Libraries](https://github.com/vishalkrishna90/BOSTON-HOUSE-PRICE-PREDICTION/blob/main/Images/li_im.jpg)
+
 ## Process Followed To Complite This Project
 - Problem Statement
 - Data Collection 
@@ -24,7 +38,7 @@ This is a Boston House Price Prediction project in which I tried to train ML Mod
 
 **Web App Overview**
 
-![Web App](https://github.com/vishalkrishna90/BOSTON-HOUSE/blob/16a2f992cda0c0e9530ff03b526d191b0d15f451/Images/Web_App_img.png)
+![Web App](https://github.com/vishalkrishna90/BOSTON-HOUSE/blob/16a2f992cda0c0e9530ff03b526d191b0d15f451/Images/Web_App_2.png)
 ## Problem Statement
 
 The problem that we are going to solve here is that given a set of features that describe a house in Boston, our machine learning model must predict the house price. To train our machine learning model with boston housing data, we will be using scikit-learn’s boston dataset.
@@ -196,7 +210,7 @@ pip install streamlit numpy pandas sklearn xgboost
 ## Create Web App With Streamlit
 After installing all required libraries and dependencies we create web app 
 
-![Web App](https://github.com/vishalkrishna90/BOSTON-HOUSE/blob/16a2f992cda0c0e9530ff03b526d191b0d15f451/Images/Web_App_img.png)
+![Web App](https://github.com/vishalkrishna90/BOSTON-HOUSE-PRICE-PREDICTION/blob/main/Images/Web_App_1.png)
 
 ## Upload All Files In Github repository
 
@@ -227,8 +241,10 @@ At the end we deploy our model on heroku, so that anybody can use the web app
 
 [Boston House Price Prediction Web App](https://chennaihousepricepredict.herokuapp.com/)
 
-![Boston House Price Precictin](https://github.com/vishalkrishna90/BOSTON-HOUSE/blob/77f04bbde745e139da8e568705b1aa58ca1b4c60/Images/Web_App_2.png)
+![Boston House Price Precictin](https://github.com/vishalkrishna90/BOSTON-HOUSE-PRICE-PREDICTION/blob/main/Images/Web_App_2.png)
 ## Deployment Requirement Tools 
+
+![Deploy](https://github.com/vishalkrishna90/BOSTON-HOUSE-PRICE-PREDICTION/blob/main/Images/st_im.png)
 
  - [Streamlit](https://streamlit.io/)
  - [Github Account](https://github.com/)
