@@ -3,7 +3,7 @@
 
 This is a Boston House Price Prediction project in which I tried to train ML Model Very well by that anybody can predict house prices in Boston, I also created a web app for predict house price in boston. You can check my web app, Thank You :)
 
-![Boston House](https://github.com/vishalkrishna90/BOSTON-HOUSE-PRICE-PREDICTION/blob/main/Images/BOSTON_2.jpg)
+![Boston House](https://github.com/vishalkrishna90/BOSTON-HOUSE-PRICE-PREDICTION/blob/main/Images/BOSTON_3.jpg)
 
 
 **Author = Vishal Kumar Mridha**
